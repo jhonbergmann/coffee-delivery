@@ -10,6 +10,12 @@
 <br>
 
 <p align="center">
+  ☕ Find the perfect coffee for any time and day.
+</p>
+
+<br>
+
+<p align="center">
   <img src="docs/assets/screenshot-one.png" width="100%" alt="" />
 </p>
 
